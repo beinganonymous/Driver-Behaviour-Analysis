@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Accident-Detection-App-DataToCSV.iml" filepath="$PROJECT_DIR$/.idea/modules/Accident-Detection-App-DataToCSV.iml" group="DataToCSV" />
+      <module fileurl="file://$PROJECT_DIR$/DataToCSV.iml" filepath="$PROJECT_DIR$/DataToCSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DataToCSV-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DataToCSV-app.iml" group="DataToCSV/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

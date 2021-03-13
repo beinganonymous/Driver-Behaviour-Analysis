@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity implements ConnectionCallbac
 
         if (mGoogleApiClient != null) {
             mGoogleApiClient.connect();
-            Log.d("Lauda", "Connected. Reached. LAssan");
+            
         } else
             Toast.makeText(this, "Not Connected!", Toast.LENGTH_SHORT).show();
 
